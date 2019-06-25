@@ -1,0 +1,18 @@
+.navigation {
+  background-color: #eee; }
+
+.pricing-item .bg-pricing {
+  /*background: url(../images/pricing-bg.jpg);*/
+  background-color: #194458;
+  background-size: cover; }
+
+.services .service-block h3, .services .service-block p {
+  color: #194458; }
+
+.services .service-block ion-icon {
+  font-size: 4em;
+  color: #f0326b;
+  background: linear-gradient(100deg, #f9643d, #fe2a77);
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent; }
