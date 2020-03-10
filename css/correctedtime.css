@@ -35,3 +35,12 @@
 
 .vs .hero-area .block {
   padding-left: 0; }
+
+.link-tree li {
+  padding: 0.5em; }
+
+.link-tree li a.btn-main {
+  width: 100%;
+  text-align: center;
+  text-transform: none;
+  word-wrap: none; }
