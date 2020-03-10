@@ -1,5 +1,7 @@
 .navigation {
   background-color: #eee; }
+  .navigation .navbar-toggler {
+    color: #1f2532; }
 
 .pricing-item .bg-pricing {
   /*background: url(../images/pricing-bg.jpg);*/
